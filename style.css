@@ -16,60 +16,51 @@ body{
 
 
 header{
-    width: 80%;
-    margin:auto;
-    box-sizing: content-box;
-    border: 3px #402725 solid;
-    background-color: #fce7cc;
-    border-radius: 12px;
-
-
-    text-align: center;
-
-
+  background-color: #fce7cc;
+  padding: 25px 30px 12px;
+  text-align: center;
+  border-bottom: 4px solid #470e14;
 }
 
 
-header h1{
+header h1 {
+    margin:0;
     color:#470e14;
-
-
     font-family: "Brush Script MT", cursive;
-    font-size: 56px;
+    font-size: 38px;
 }
 
 
 header p{
+    margin: 8px 0 10px;
+    font-size:16px;
     color:#470e14
 }
 
 
 nav {
-    margin: auto;
-    width:85%;
-    text-align: center;
-    border: none;
-    text-align: center;
-    border-radius:12px
+    display: flex;
+    align-content: center;
+    gap: 25px;
+    margin:0
 }
-
 
 nav a {
     display:inline-block;
     align-items: center;
-    gap: 10%;
 
-
-
-
-    margin:5px;
-    padding: 8px 12px;
+    padding: 5px 8px;
     border:none;
     border-radius: 6px;
     color:#4a161b;
     text-decoration: none;
-    font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+nav a:hover {
+    color:#470e14;
+    text-decoration:underline;
 }
 
 
