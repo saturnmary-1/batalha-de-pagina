@@ -18,6 +18,7 @@ header{
     box-sizing: content-box;
     border: 3px #402725 solid;
     background-color: #fce7cc;
+    border-radius: 2px;
 
     text-align: center;
 
@@ -35,8 +36,9 @@ header p{
 }
 
 nav {
+    margin: auto;
     width:85%;
-    box-sizing: border-box;
+    box-sizing: content-box;
 
     background-color: #fce7cc;
 
