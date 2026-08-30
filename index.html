@@ -91,11 +91,14 @@
         <style>
             .lista {
                 display: flex;
-                align-items: center;
+                align-items: stretch;
                 text-align: center;
                 gap: 30px;
                 margin-bottom: 40px;
-                width: 40%;
+                width: 90%;
+                margin-left: auto;
+                margin-right: auto;
+
             }
 
             .filme {
@@ -104,18 +107,19 @@
                 border-radius: 15px;
                 background-color: #fce7cc;
                 box-shadow: 2px 2px 5px #350b0f;
-                width: 40%;
-                height: 40%;
+                width: 280px;
+                padding: 15px;
+                box-sizing: border-box;
 
             }
 
             .filme img { 
+                display: block;
                 margin: auto;
-                width: 200px;
-                height: auto;
-                margin-bottom: 10px;
+                width: 100%;
+                max-width: 240px;
+                height: 180;
                 border-radius: 10px;
-                height: 10%;
             }
 
             .filme h3 {
