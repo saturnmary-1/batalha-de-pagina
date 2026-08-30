@@ -48,6 +48,11 @@ nav a {
     display:inline-block;
     margin:5px;
     padding: 8px 12px;
-    background-color: #4a161b;
+    background-color:#fce7cc;
+    border:2px solid #402725;
+    color:#4a161b;
+    text-decoration: none;
+    font-weight: bold italic;
+
 
 }
