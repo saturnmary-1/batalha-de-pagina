@@ -79,7 +79,7 @@ main {
 
 
     background-color:#fce7cc;
-    border: #402725 solid 8px;
+    border: #470e14 solid 3px;
 
 
     border-radius: 12px;
@@ -95,4 +95,7 @@ main {
 
 .filmes-titulo img {
     width: 40px;
+    height:40px;
+    object-fit: contain;
+    vertical-align: middle;
 }
