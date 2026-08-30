@@ -81,8 +81,9 @@ nav a:hover {
 .filmes-titulo{
   
     text-align: center;
-    font-family: 'Brush Script MT', cursive;
-    font-size: 58px;
+    font-family:  "Alex Brush", cursive;
+    font-size: 50px;
+    letter-spacing: 1px;
 
     box-sizing: content-box;
     border: 2px dashed #470e14;
