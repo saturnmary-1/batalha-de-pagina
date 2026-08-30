@@ -51,7 +51,7 @@ nav {
 nav a {
     display:inline-block;
     align-items: center;
-    gap: 8px;
+    gap: 16px;
 
 
     margin:5px;
