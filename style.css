@@ -85,35 +85,14 @@ main {
     border-radius: 12px;
 }
 
-main h2{
-    font-family: "Brush Script MT", cursive;
-    font-size: 56px;
-}
-
-
-main h2 img {
-    width:20%;
-    height:20%;
-    object-fit: contain;
-
-}
-
-section {
+.filmes-titulo{
     display: flex;
-    flex-direction: column;
-    gap:22px
-}
-
-section > div {
-    display: flex;
+    justify-content: center;
     align-items: center;
+    gap:10px
+}
 
-    background-color: #fce7cc;
 
-    border: 2px solid #402725;
-    box-shadow: 4px 4px 0px #2b1918;
-
-    text-align: center;
-    
-
+.filmes-titulo img {
+    width: 40px;
 }
