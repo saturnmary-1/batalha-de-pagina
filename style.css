@@ -10,6 +10,7 @@ body{
 
     font-family: 'Times New Roman', Times, serif;
     color: #470e14;
+    text-align: center;
 }
 
 header{
@@ -62,4 +63,14 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    width: 85px;
+    margin:auto;
+    padding: 25%;
+    box-sizing: content-box;
+    
+    background-color:#fce7cc;
+    border: #402725 solid 8px;
 }
