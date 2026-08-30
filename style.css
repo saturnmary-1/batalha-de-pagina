@@ -28,40 +28,49 @@ header h1 {
     color:#470e14;
     font-family: "Brush Script MT", cursive;
     font-size: 38px;
+    letter-spacing: 1px;
 }
 
 
 header p{
     margin: 8px 0 10px;
     font-size:16px;
-    color:#470e14
+    color:#470e14;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
 nav {
-    text-align: center;   
-    gap: 25px;
-    margin:0
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 5px;
 }
 
 nav a {
     display:inline-block;
-    text-align: center;
-
-    padding: 5px 8px;
-    border:none;
-    border-radius: 6px;
+    padding: 6px 10px;
     color:#4a161b;
     text-decoration: none;
+
+    text-align: center;
+
     font-family: 'Courier New', Courier, monospace;
-    font-size: 15px;
+    font-size: 14px;
+
+    border:1px solid transparent;
+    border-radius: 20px;
+    transition: 0.2s;
 }
+
+/*MOUSE*/
 
 nav a:hover {
-    color:#470e14;
+    background-color:#470e14;
+    transform: rotate(-2deg);
     text-decoration:underline;
 }
-
 
 main {
     width: 85%;
