@@ -42,6 +42,7 @@ nav {
 
     border: 3px solid #402725;
     text-align: center;
+    border-radius:12px
 }
 
 nav a {
@@ -49,7 +50,8 @@ nav a {
     margin:5px;
     padding: 8px 12px;
     background-color:#fce7cc;
-    border:2px solid #402725;
+    border:none;
+    border-radius: 6px;
     color:#4a161b;
     text-decoration: none;
     font-weight: bold italic;
