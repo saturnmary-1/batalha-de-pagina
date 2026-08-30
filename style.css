@@ -77,19 +77,6 @@ nav a:hover {
     text-decoration:underline;
 }
 
-main {
-    width: 85%;
-    margin:auto;
-    box-sizing: content-box;
-
-
-    background-color:#fce7cc;
-    border: #470e14 solid 3px;
-
-
-    border-radius: 12px;
-}
-
 .filmes-titulo{
     display: flex;
     justify-content: center;
@@ -99,12 +86,8 @@ main {
 
     font-family:  "Alex Brush", cursive;
     font-size: 50px;
-}
 
+    border: 2px dashed #470e14;
+    border-radius: 8px;
 
-.filmes-titulo img {
-    width: 130px;
-    height:130px;
-    object-fit: contain;
-    vertical-align: middle;
 }
