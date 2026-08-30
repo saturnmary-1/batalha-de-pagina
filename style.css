@@ -37,6 +37,7 @@ header p{
 }
 
 .welcome {
+    width: 50%;
     background-color: #fce7cc;
     border: 3px #402725 solid;
     border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px;
