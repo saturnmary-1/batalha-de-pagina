@@ -98,8 +98,8 @@ main {
 
 
 .filmes-titulo img {
-    width: 60px;
-    height:60px;
+    width: 100px;
+    height:100px;
     object-fit: contain;
     vertical-align: middle;
 }
