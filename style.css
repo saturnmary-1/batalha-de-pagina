@@ -9,7 +9,7 @@ body{
     );
 
     font-family: 'Times New Roman', Times, serif;
-    color: #702b32;
+    color: #470e14;
 }
 
 header{
@@ -24,14 +24,14 @@ header{
 }
 
 header h1{
-    color:#702b32;
+    color:#470e14;
 
     font-family: "Brush Script MT", cursive;
     font-size: 48px;
 }
 
 header p{
-    color:#702b32
+    color:#470e14
 }
 
 nav {
