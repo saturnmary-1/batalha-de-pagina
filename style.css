@@ -109,13 +109,16 @@ nav a:hover {
 
    font-family: 'Courier New', Courier, monospace;
    font-size: 14px;
+
     border:1px solid transparent;
     border-radius: 20px;
     transition: 0.2s;
  }
 
  .filme a:hover{
-    color:#350b0f;
+   background-color:#470e14;
+    transform: rotate(-2deg);
+    text-decoration:underline;
  }
 
 
