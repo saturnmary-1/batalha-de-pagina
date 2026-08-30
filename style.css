@@ -9,6 +9,7 @@ body{
     );
 
     font-family: 'Times New Roman', Times, serif;
+    color: #702b32;
 }
 
 header{
@@ -33,3 +34,13 @@ header p{
     color:#702b32
 }
 
+nav {
+    width:85%;
+    box-sizing: content-box;
+    box-sizing: border-box;
+
+    background-color: #fce7cc;
+
+    border: 3px solid #694a47
+
+}
