@@ -36,6 +36,40 @@ header p{
     color:#470e14
 }
 
+nav{
+    display: flex;  
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    width:85%;
+
+    background-color: #fce7cc;
+
+    border-bottom: 2px dashed #402725;
+    margin-bottom: 30px;
+}
+
+nav a {
+    display:inline-block;
+    align-items: center;
+    gap: 16px;
+
+
+
+
+    margin:5px;
+    padding: 8px 12px;
+    background-color:#fce7cc;
+    border:none;
+    border-radius: 6px;
+    color:#4a161b;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    transition: color 0.2s ease;
+}
+
+
 .welcome {
     width: 50%;
     background-color: #fce7cc;
