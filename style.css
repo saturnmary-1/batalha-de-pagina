@@ -79,21 +79,20 @@ nav a:hover {
 }
 
 .filmes-titulo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap:10px;
-    margin-top:  4px;
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 
-    font-family:  "Alex Brush", cursive;
+    width: 80%;
+    max-width: 450px;
+    padding: 30px 15px;
+
+    font-family: "Alex Brush", cursive;
     font-size: 50px;
-
-    border: 2px dashed #470e14;
-    width: 60%;
-    height:60%;
-    padding: 10px;
-    border-radius: 8px;
-    background-color: #fce7cc;
     text-align: center;
-
+    background-color: #fce7cc;
+    border: 2px dashed #470e14;
+    border-radius: 8px;
+    box-sizing: border-box;
 }
