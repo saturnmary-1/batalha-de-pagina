@@ -56,7 +56,11 @@ nav a {
     border-radius: 6px;
     color:#4a161b;
     text-decoration: none;
-    font-weight: bold italic;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
 
-
+nav p{
+    color: #402725;
+    font-family: 'Courier New', Courier, monospace;
 }
