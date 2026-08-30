@@ -39,6 +39,7 @@ header h1 {
 
 header p{
     margin: 8px 0 10px;
+    margin-top: 6px;
     font-size:16px;
     color:#470e14;
     font-family: Georgia, 'Times New Roman', Times, serif;
