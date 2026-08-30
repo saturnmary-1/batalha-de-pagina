@@ -89,10 +89,11 @@ nav a:hover {
     font-size: 50px;
 
     border: 2px dashed #470e14;
-    width: 30%;
-    height:30%;
+    width: 60%;
+    height:60%;
     padding: 10px;
     border-radius: 8px;
     background-color: #fce7cc;
+    text-align: center;
 
 }
