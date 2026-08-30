@@ -29,7 +29,7 @@ header h1{
     color:#470e14;
 
     font-family: "Brush Script MT", cursive;
-    font-size: 48px;
+    font-size: 56px;
 }
 
 header p{
@@ -51,7 +51,7 @@ nav {
 nav a {
     display:inline-block;
     align-items: center;
-    gap: 6px;
+    gap: 8px;
 
 
     margin:5px;
@@ -74,4 +74,9 @@ main {
     border: #402725 solid 8px;
 
     border-radius: 12px;
+}
+
+main h2{
+    font-family: "Brush Script MT", cursive;
+    font-size: 56px;
 }
