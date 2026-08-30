@@ -2,7 +2,9 @@ body{
     margin:0;
 
     background:linear-gradient(
+        90deg,
         #96c1c5 50%,
         #fff0de 50%
     );
+    background-size: 30px 100%;
 }
