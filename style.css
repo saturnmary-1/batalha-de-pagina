@@ -66,11 +66,12 @@ nav a {
 }
 
 main {
-    width: 85px;
+    width: 85%;
     margin:auto;
-    padding: 25%;
     box-sizing: content-box;
-    
+
     background-color:#fce7cc;
     border: #402725 solid 8px;
+
+    border-radius: 12px;
 }
