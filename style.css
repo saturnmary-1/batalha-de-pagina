@@ -1,6 +1,6 @@
 body{
     margin:0;
-    background:repeating-linear-gradient( 
+    background:repeating-linear-gradient(
         to right,
         #96c1c5 0px,
         #96c1c5 30px,
@@ -8,10 +8,12 @@ body{
         #fce7cc 60px
     );
 
+
     font-family: 'Times New Roman', Times, serif;
     color: #470e14;
     text-align: center;
 }
+
 
 header{
     width: 80%;
@@ -21,33 +23,41 @@ header{
     background-color: #fce7cc;
     border-radius: 12px;
 
+
     text-align: center;
+
 
 }
 
+
 header h1{
     color:#470e14;
+
 
     font-family: "Brush Script MT", cursive;
     font-size: 56px;
 }
 
+
 header p{
     color:#470e14
 }
 
-nav{
-    display: flex;  
-    flex-direction: column;
-    align-items: center;
+
+nav {
     margin: auto;
     width:85%;
+    box-sizing: content-box;
+
 
     background-color: #fce7cc;
 
-    border-bottom: 2px dashed #402725;
-    margin-bottom: 30px;
+
+    border: 3px solid #402725;
+    text-align: center;
+    border-radius:12px
 }
+
 
 nav a {
     display:inline-block;
@@ -66,26 +76,24 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
-    transition: color 0.2s ease;
 }
 
 
-.welcome {
-    width: 50%;
-    background-color: #fce7cc;
-    border: 3px #402725 solid;
-    border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px;
-    padding: 40px 20px;
-    text-align: center;
-    box-shadow: 5px 5px 0px #4a2c11;
+main {
+    width: 85%;
+    margin:auto;
+    box-sizing: content-box;
+
+
+    background-color:#fce7cc;
+    border: #402725 solid 8px;
+
+
+    border-radius: 12px;
 }
 
-.welcome h2 {
-     color:#470e14;
 
-
+main h2{
     font-family: "Brush Script MT", cursive;
     font-size: 56px;
-
-
 }
