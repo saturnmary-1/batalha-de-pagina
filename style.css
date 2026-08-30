@@ -8,3 +8,13 @@ body{
         #fff0de 60px
     );
 }
+
+header{
+    width: 80%;
+    margin:auto;
+    box-sizing: content-box;
+    border: 3px #694a47 dashed;
+
+    text-align: center;
+
+}
