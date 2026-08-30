@@ -4,17 +4,32 @@ body{
         to right,
         #96c1c5 0px,
         #96c1c5 30px,
-        #fff0de 30px,
-        #fff0de 60px
+        #fce7cc 30px,
+        #fce7cc 60px
     );
+
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header{
     width: 80%;
     margin:auto;
     box-sizing: content-box;
-    border: 3px #694a47 dashed;
+    border: 3px #694a47 solid;
+    background-color: #fce7cc;
 
     text-align: center;
 
 }
+
+header h1{
+    color:#702b32;
+
+    font-family: "Brush Script MT", cursive;
+    font-size: 48px;
+}
+
+header p{
+    color:#702b32
+}
+
