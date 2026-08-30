@@ -115,4 +115,19 @@ nav a:hover {
     color:#350b0f;
  }
 
- 
+
+ .autora a {
+   display:inline-block;
+   color:#79232b;
+   text-decoration: none;
+   text-align: center;
+
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 14px;
+ }
+
+.autora a:hover {
+ background-color:#470e14;
+    transform: rotate(-2deg);
+    text-decoration:underline;
+}
