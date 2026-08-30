@@ -1,3 +1,9 @@
 body{
-    background-color: purple;
+    background:repeating-linear-gradient(
+        0deg,
+        #96c1c5 0px,
+        #96c1c5 30px,
+        #fff0de 30px,
+        #fff0de 60px
+    )
 }
