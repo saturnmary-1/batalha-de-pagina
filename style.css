@@ -16,7 +16,7 @@ header{
     width: 80%;
     margin:auto;
     box-sizing: content-box;
-    border: 3px #694a47 solid;
+    border: 3px #402725 solid;
     background-color: #fce7cc;
 
     text-align: center;
@@ -36,11 +36,18 @@ header p{
 
 nav {
     width:85%;
-    box-sizing: content-box;
     box-sizing: border-box;
 
     background-color: #fce7cc;
 
-    border: 3px solid #694a47
+    border: 3px solid #402725;
+    text-align: center;
+}
+
+nav a {
+    display:inline-block;
+    margin:5px;
+    padding: 8px 12px;
+    background-color: #4a161b;
 
 }
