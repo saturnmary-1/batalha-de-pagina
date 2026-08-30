@@ -103,14 +103,14 @@ nav a:hover {
 
 .filme a {
    display:inline-block;
-   color:#470e14;
+   color:#79232b;
    text-decoration: none;
    text-align: center;
 
    font-family: 'Courier New', Courier, monospace;
    font-size: 14px;
+ }
 
-   border:1px solid transparent;
-   border-radius: 20px;
-   transition: 0.2s;
+ .filme a:hover{
+    color:#350b0f;
  }
