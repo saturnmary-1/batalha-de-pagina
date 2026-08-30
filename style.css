@@ -39,8 +39,7 @@ header p{
 
 
 nav {
-    display: flex;
-    align-content: center;
+    text-align: center;   
     gap: 25px;
     margin:0
 }
