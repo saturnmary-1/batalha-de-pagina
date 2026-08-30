@@ -90,6 +90,9 @@ nav a:hover {
     border-radius: 8px;
     width: 80%;
     margin:auto;
+    padding: 25px 30px 12px;
+
+
     box-shadow: 2px 2px 5px #350b0f;
     background-color: #fce7cc;
 }
