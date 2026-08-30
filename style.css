@@ -59,7 +59,7 @@ nav {
 nav a {
     display:inline-block;
     padding: 6px 10px;
-    color:#79232b;
+    color:rgb(185, 55, 68);
     text-decoration: none;
 
     text-align: center;
@@ -103,12 +103,16 @@ nav a:hover {
 
 .filme a {
    display:inline-block;
-   color:#79232b;
+   color:rgb(185, 55, 68);
    text-decoration: none;
    text-align: center;
 
    font-family: 'Courier New', Courier, monospace;
    font-size: 14px;
+   
+    border:1px solid transparent;
+    border-radius: 20px;
+    transition: 0.2s;
  }
 
  .filme a:hover{
@@ -118,7 +122,7 @@ nav a:hover {
 
  .autora a {
    display:inline-block;
-   color:#79232b;
+   color:rgb(185, 55, 68);
    text-decoration: none;
    text-align: center;
 
