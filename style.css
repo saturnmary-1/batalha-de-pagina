@@ -12,6 +12,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     color: #470e14;
     text-align: center;
+    
 }
 .alex-brush-regular {
   font-family: "Alex Brush", cursive;
@@ -141,8 +142,4 @@ nav a:hover {
  background-color:#470e14;
     transform: rotate(-2deg);
     text-decoration:underline;
-}
-
-footer{
-    color: #470e14;
 }
