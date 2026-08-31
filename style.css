@@ -142,3 +142,7 @@ nav a:hover {
     transform: rotate(-2deg);
     text-decoration:underline;
 }
+
+footer{
+    color: #470e14;
+}
