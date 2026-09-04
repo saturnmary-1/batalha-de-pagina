@@ -61,7 +61,7 @@ nav {
 nav a {
     display:inline-block;
     padding: 6px 10px;
-    color:rgb(185, 55, 68);
+    color:#710a14;
     text-decoration: none;
 
     text-align: center;
@@ -77,7 +77,7 @@ nav a {
 /*MOUSE*/
 
 nav a:hover {
-    background-color:#470e14;
+    background-color:#3f070b;
     transform: rotate(-2deg);
     text-decoration:underline;
 }
