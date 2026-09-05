@@ -31,5 +31,7 @@ body {
        height: 180;
        border-radius: 10px;
        object-fit: contain;
+       align-items: flex-start;
+       
 }
 
