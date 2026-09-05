@@ -1,5 +1,15 @@
 body {
-    background-color: #fce7cc;
+    background-color: #720002;
+}
+
+.card-filme {
+    background-color: #db8291;
+    width: 500px;
+    padding: 25px;
+    border-radius: 9px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    color: #720002;
+
 }
 
 .titulo {

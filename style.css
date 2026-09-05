@@ -26,8 +26,7 @@ header{
   padding: 25px 30px 12px;
   text-align: center;
   border-bottom: 4px solid #470e14;
-  box-shadow: 2px 2px 5px #350b0f;
-
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
 }
 
 
@@ -97,7 +96,7 @@ nav a:hover {
     padding: 25px 30px 12px;
 
 
-    box-shadow: 2px 2px 5px #350b0f;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
     background-color: #fce7cc;
 }
 
