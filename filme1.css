@@ -1,0 +1,11 @@
+body {
+    background-color: #fce7cc;
+}
+
+.titulo {
+   font-family: 'Courier New', Courier, monospace;
+   font-style: italic;
+   font-size: 30px;
+   letter-spacing: 1px;
+}
+
