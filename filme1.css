@@ -12,7 +12,11 @@ body {
     color: #720002;
 
     margin: 40px auto;
-    border-radius: 3px 6px 4px 5px;
+    background-image: url(download\ \(34\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    box-sizing: border-box;
 }
 
 .titulo {
