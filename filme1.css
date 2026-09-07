@@ -5,7 +5,7 @@ body {
 .card-filme {
     align-items: flex-start;
     text-align: left;
-    background-color: #db8291;
+    background-color: transparent;
     max-width: 100%;
     width: 500px;
     padding: 25px;
