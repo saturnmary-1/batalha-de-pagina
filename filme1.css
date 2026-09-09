@@ -10,19 +10,6 @@ body {
     width: 500px;
     padding: 25px;
     color: #720002;
-
-    margin: 40px auto;
-    background-image: url("fundo.png");
-    background-repeat: no-repeat;
-    background-size: 80%;
-    background-position: center ;
-}
-
-.titulo {
-   font-family: 'Courier New', Courier, monospace;
-   font-style: italic;
-   font-size: 30px;
-   letter-spacing: 1px;
 }
 
 
