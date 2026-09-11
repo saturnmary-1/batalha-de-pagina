@@ -1,5 +1,10 @@
 body {
-    background-color: #720002;
+    background-color: #f6bad6;
+}
+
+main {
+    background-color: #741e31;
+    
 }
 
 .card-filme {
@@ -9,7 +14,7 @@ body {
     max-width: 100%;
     width: 500px;
     padding: 25px;
-    color: #720002;
+
 }
 
 
