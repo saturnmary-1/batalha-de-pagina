@@ -35,6 +35,12 @@ header h1 {
     letter-spacing: 2px;
 }
 
+header p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
 nav {
     display: flex;
     justify-content: center;
