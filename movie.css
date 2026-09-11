@@ -74,7 +74,17 @@ main {
     border-radius: 3px;
     border: 3px solid #420d19 ;
 }
- 
+ .card-filme img {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    max-width: 500px;
+    height: 180px;
+    border:#420d19 3px solid ;
+    border-radius: 10px;
+    object-fit: contain;
+
+ }
 
 .card-1 {
     color: white;
