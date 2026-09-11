@@ -132,8 +132,7 @@ nav a:hover {
     font-family:  "Alex Brush", cursive;
     font-size: 38px;
     letter-spacing: 1px;
-    margin-bottom: 20px;
-
+    margin: 10px 20px 10px 20px;
 }
 
 .cards p {
