@@ -27,6 +27,7 @@ header{
   text-align: center;
   border-bottom: 4px solid #470e14;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  margin: -20px;
 }
 header h1 {
     text-align: center;
