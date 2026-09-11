@@ -7,7 +7,7 @@ body {
 header{
   padding: 25px 30px 12px;
   text-align: center;
-  margin: 20px;
+  margin: 5px 20px 0px 20px;
 }
 
 nav {
@@ -15,7 +15,7 @@ nav {
     justify-content: center;
     align-items: center;
     gap: 8px;
-    margin-top: 5px;
+    margin-top: 3px;
 }
 
 nav a {
