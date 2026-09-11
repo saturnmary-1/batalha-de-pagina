@@ -82,11 +82,12 @@ nav a:hover {
 }
 
 .filmes-titulo{
-  
+ 
     text-align: center;
     font-family:  "Alex Brush", cursive;
     font-size: 30px;
     letter-spacing: 1px;
+
 
     box-sizing: content-box;
     border: 2px dashed #470e14;
@@ -96,49 +97,8 @@ nav a:hover {
     padding: 25px 30px 12px;
 
 
+
+
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
     background-color: #fce7cc;
-}
-
-/* MOUSE TITULO FILME */
-
-.filme a {
-   display:inline-block;
-   color:rgb(185, 55, 68);
-   text-decoration: none;
-   text-align: center;
-
-   font-family: 'Courier New', Courier, monospace;
-   font-size: 14px;
-
-    border:1px solid transparent;
-    border-radius: 20px;
-    transition: 0.2s;
- }
-
- .filme a:hover{
-   background-color:#470e14;
-    transform: rotate(-2deg);
-    text-decoration:underline;
- }
-
-
- .autora a {
-   display:inline-block;
-   color:rgb(185, 55, 68);
-   text-decoration: none;
-   text-align: center;
-
-   font-family: 'Courier New', Courier, monospace;
-   font-size: 14px;
-
-    border:1px solid transparent;
-    border-radius: 20px;
-    transition: 0.2s;
- }
-
-.autora a:hover {
- background-color:#470e14;
-    transform: rotate(-2deg);
-    text-decoration:underline;
 }
