@@ -151,3 +151,20 @@ nav a:hover {
     border-radius: 10px;
     object-fit: contain;
     }
+
+
+ .cards a {
+   display:inline-block;
+   color:#710a14;
+   text-decoration: none;
+   text-align: center;
+
+
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 14px;
+
+
+    border:1px solid transparent;
+    border-radius: 20px;
+    transition: 0.2s;
+ }
