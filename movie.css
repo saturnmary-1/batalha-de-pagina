@@ -7,10 +7,12 @@ body {
 main {
     align-content: center;
     background-color: #741e31;
-
     width: 80%;
-
+    margin: 0 auto;
+    width: 400px;
+    padding:25px;
 }
+
 
 .card-filme {
     align-items: flex-start;
