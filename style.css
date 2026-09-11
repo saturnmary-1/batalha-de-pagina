@@ -102,7 +102,9 @@ nav a:hover {
 }
 
 .lista { 
-    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     gap: 30px;
     width: 90%;
