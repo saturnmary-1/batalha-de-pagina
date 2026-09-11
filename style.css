@@ -82,7 +82,7 @@ nav a:hover {
 
 
     box-sizing: content-box;
-    border: 2px dashed #470e14;
+    border: 2px solid #470e14;
     border-radius: 8px;
     width: 80%;
     margin:auto;
