@@ -54,6 +54,7 @@ main {
     margin: 0 auto;
     width: 80%;
     padding:25px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
@@ -70,6 +71,11 @@ main {
     color: #ffff;
 }
  
+
+.card-1 {
+    color: white;
+
+}
 
 
 
