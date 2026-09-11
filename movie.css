@@ -77,7 +77,8 @@ main {
 }
 .filme-1 {
     float: right;
-    width: 400px;
+    width: 220px;
+    height: 300px;
     object-fit: contain;
 
     margin-left: 20px;
