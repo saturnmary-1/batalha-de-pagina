@@ -112,7 +112,7 @@ nav a:hover {
 
 .cards {
     text-align: center;
-    border: 5px solid #470e14;
+    border: 2px solid #470e14;
     border-radius: 15px;
     background-color: #fce7cc;
     width: 280px;
@@ -121,6 +121,20 @@ nav a:hover {
 
 }
 
+.cards h2 {
+    text-align: center;
+    font-family:  "Alex Brush", cursive;
+    font-size: 38px;
+    letter-spacing: 1px;
+
+}
+
+.cards p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: -10px;
+
+}
 .cards img {
     display: block;
     margin: auto;
