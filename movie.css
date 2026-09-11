@@ -1,10 +1,20 @@
 body {
+    margin: 0;
     background-color: #f6bad6;
+    text-align: center;
 }
 
 main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     background-color: #741e31;
-    
+
+    width: 80%;
+    height: auto;
+
+
 }
 
 .card-filme {
