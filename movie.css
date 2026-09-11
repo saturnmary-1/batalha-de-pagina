@@ -78,6 +78,10 @@ main {
 .card-filme img {
     display: flex;
     justify-content: flex-end;
+    width: 100%;
+    max-width: 240px;
+    height: 180;
+
 }
 
 .card-1 {
