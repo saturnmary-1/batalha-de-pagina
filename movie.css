@@ -48,8 +48,7 @@ nav a:hover {
 
 
 main {
-    align-content: center;
-    background-color: #741e31;
+
     width: 80%;
     margin: 0 auto;
     width: 80%;
@@ -69,6 +68,9 @@ main {
 
     font-family: 'Times New Roman', Times, serif;
     color: #ffff;
+    background-color: #710a14;
+    border-radius: 3px;
+    border: 3px solid #420d19 ;
 }
  
 
