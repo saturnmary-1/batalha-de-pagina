@@ -77,9 +77,11 @@ main {
 }
 .filme-1 {
     float: right;
-    width: 220px; 
+    width: 400px;
+    height: 300px;
     margin-left: 20px;
     margin-bottom: 15px;
+    border: 3px solid #420d19;
 }
 
 .card-1 {
