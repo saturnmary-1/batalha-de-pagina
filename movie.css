@@ -59,12 +59,14 @@ main {
 
 
 .card-filme {
-    align-items: flex-start;
+    align-content: center;
     text-align: left;
     background-color: transparent;
     max-width: 100%;
     width: 500px;
     padding: 25px;
+    margin: 0 auto;
+
 
     font-family: 'Times New Roman', Times, serif;
     color: #ffff;
