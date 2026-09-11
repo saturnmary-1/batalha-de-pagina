@@ -77,12 +77,13 @@ nav a:hover {
  
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 20px;
+    font-style: italic;
     letter-spacing: 1px;
 
 
     box-sizing: content-box;
-    border: 2px solid #470e14;
+    border: 2px dashed #470e14;
     border-radius: 8px;
     width: 80%;
     margin:auto;
