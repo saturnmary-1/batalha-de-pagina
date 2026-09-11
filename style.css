@@ -25,13 +25,11 @@ header{
   background-color: #fce7cc;
   padding: 25px 30px 12px;
   text-align: center;
-  border: 4px solid #470e14;
+  border-bottom: 4px solid #470e14;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
-  width: 80%;
-
 }
 header h1 {
-    
+
 
 }
 
