@@ -88,7 +88,7 @@ nav a:hover {
 
 
     box-sizing: content-box;
-    border: 2px dashed #470e14;
+    border: 3px dashed #470e14;
     border-radius: 8px;
     width: 80%;
     margin:auto;
@@ -112,7 +112,7 @@ nav a:hover {
 
 .cards {
     text-align: center;
-    border: 2px solid #470e14;
+    border: 3px solid #470e14;
     border-radius: 15px;
     background-color: #fce7cc;
     width: 280px;
