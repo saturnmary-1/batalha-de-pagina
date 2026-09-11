@@ -119,6 +119,8 @@ nav a:hover {
     padding: 15px;
     box-sizing: border-box;
 
+    margin: 0;
+
 }
 
 .cards h2 {
@@ -126,13 +128,14 @@ nav a:hover {
     font-family:  "Alex Brush", cursive;
     font-size: 38px;
     letter-spacing: 1px;
+    margin-bottom: 20px;
 
 }
 
 .cards p {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
-    margin-top: 20px;
+    margin-top: 0;
 
 }
 .cards img {
