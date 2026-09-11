@@ -38,6 +38,7 @@ header h1 {
 header p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    margin-top: -10px;
 }
 
 nav {
@@ -75,7 +76,7 @@ nav a:hover {
 .filmes-titulo{
  
     text-align: center;
-    font-family:  "Alex Brush", cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     letter-spacing: 1px;
 
