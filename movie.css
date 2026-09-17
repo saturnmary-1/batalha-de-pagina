@@ -67,7 +67,7 @@ main {
     width: 500px;
     padding: 25px;
     margin: 0 auto;
-    
+
 
 
     font-family: 'Times New Roman', Times, serif;
@@ -79,7 +79,7 @@ main {
 
 .caixa {
     float: right;
-    width: 220px;
+    width: 200px;
     height: 300px;
 
     margin-left: 20px;
