@@ -113,9 +113,10 @@ main {
 .card {
     color: white;
     font-size: 20px;
-    text-align: justify;
-
+}
+.card h3 {
+    font-family: "Alex Brush", cursive;
+    width: 22px;
 
 }
-
 
