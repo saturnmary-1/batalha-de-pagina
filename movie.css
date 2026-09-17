@@ -143,3 +143,7 @@ main {
     letter-spacing: 1px;
     margin: 10px 20px 10px 20px;
 }
+
+.card mark {
+    background-color: #810c17;
+}
