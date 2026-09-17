@@ -82,12 +82,9 @@ main {
     border: 3px solid #420d19 ;
 }
 .card-filme h1 {
-    font-family:  "Alex Brush", cursive;
     letter-spacing: 2px;
     text-align: left;
     font-size: 38px;
-
-
 }
 .caixa {
     float: right;
