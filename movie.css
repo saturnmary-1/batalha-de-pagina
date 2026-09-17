@@ -127,6 +127,7 @@ main {
     font-size: 20px;
 }
 .card h3 {
+    text-align: center;
     font-family: "Alex Brush", cursive;
     width: 22px;
 
