@@ -1,3 +1,8 @@
+body{ 
+    background-color: #710a14;
+
+}
+
 .filme-1{
     width: 220px;
     height: 300px;
@@ -22,8 +27,6 @@
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:white;
-    background-color: #710a14;
-    border-radius: 3px;
-     border: 3px solid #420d19 ;
 }
+    
 
