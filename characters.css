@@ -1,6 +1,20 @@
-.filme-1 img {
-width: 100%;
-height: 100%;
-object-fit: contain;
-display: block;
+.filme-1{
+    float: right;
+    width: 220px;
+    height: 300px;
+
+    margin-left: 20px;
+    margin-bottom: 15px;
+
+    border: 3px solid hsl(316, 72%, 82%);
+    border-radius: 8px;
 }
+
+.filme-1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block; 
+}
+
+
