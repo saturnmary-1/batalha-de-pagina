@@ -15,16 +15,6 @@ body{
 }
 
 .card-caracters {
-
-    text-align: left;
-    background-color: transparent;
-    max-width: 100%;
-    width: 500px;
-    padding: 25px;
-    margin: 0 auto;
-
-
-
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:white;
 }
