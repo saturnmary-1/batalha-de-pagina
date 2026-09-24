@@ -183,8 +183,3 @@ nav a:hover {
     border-radius: 20px;
     transition: 0.2s;
  }
-
- .pontilhado {
-     outline:2px dotted #6b1420;
-     outline-offset:-12px;
- }
