@@ -43,11 +43,21 @@ header h1 {
 header p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    margin-top: -30px;
+    margin-top: -50px;
     padding: 25px 30px 12px;
 
 }
+.topo-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
 
+.laço-dir {
+    width: 50px;
+    margin-top: -40px;
+}
 nav {
     display: flex;
     justify-content: center;
@@ -152,16 +162,6 @@ nav a:hover {
     pointer-events: none;
 }
 
-.topo-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-}
-
-.laço-dir {
-    width: 50px;
-}
 .cards h2 {
     text-align: center;
     font-family:  "Alex Brush", cursive;
