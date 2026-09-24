@@ -78,6 +78,26 @@ nav a:hover {
     text-decoration:underline;
 }
 
+.xadrez {
+    height:30px;
+    
+    background-color: #fce7cc;
+
+    background-image: 
+    linear-gradient(45deg, #96c1c5 25%, transparent 25%),
+    linear-gradient(-45deg, #96c1c5 25%, transparent 25%),
+    linear-gradient(45deg, #96c1c5 75%, transparent 25%),
+    linear-gradient(-45deg, #96c1c5 75%, transparent 25%);
+
+    background-size: 30px 30px;
+    
+    background-position:
+        0 0,
+        0 15px,
+        15px -15px,
+        -15px 0;
+}
+
 .filmes-titulo{
  
     text-align: center;
