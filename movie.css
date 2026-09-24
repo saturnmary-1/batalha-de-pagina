@@ -79,7 +79,7 @@ main {
     text-align: left;
     background-color: transparent;
     max-width: 100%;
-    width: 600px;
+    width: 800px;
     padding: 25px;
     margin: 0 auto;
 
@@ -130,7 +130,9 @@ main {
 
     background-color: #710a14;
     border-radius: 3px;
-    border: 3px solid #420d19 ;
+    border: 6px solid #420d19 ;
+    position: relative;
+
 
 }
 
@@ -141,6 +143,14 @@ main {
     padding: 10px;
 }
 
+.card-filme2::before {
+    content: "";
+    position: absolute;
+    inset:8px;
+    border: #420d19 3px dotted;
+    border-radius: 8px;
+
+}
 .card h2 {
     text-align: center;
     font-family:  "Alex Brush", cursive;
