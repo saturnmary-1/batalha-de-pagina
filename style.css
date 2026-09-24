@@ -104,21 +104,23 @@ nav a:hover {
 }
 
 .lista { 
-    display: grid; 
-    grid-template-columns: repeat(3,1fr);
-    gap: 3px;
-    align-items: stretch;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    margin-bottom: 40px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cards {
 
     position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     text-align: center;
-
+ 
+    box-sizing: border-box;
     border: 2px solid #470e14;
     border-radius: 10px;
     background-color: #fce7cc;
