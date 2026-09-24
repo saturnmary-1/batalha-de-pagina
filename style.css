@@ -154,13 +154,6 @@ nav a:hover {
     gap: 20px;
 }
 
-.laço-esq {
-    display: block;
-    margin-left: 0;
-    margin-right: auto;
-    margin-top: -20px;
-    width: 80px;
-}
 .laço-dir {
     width: 50px;
 }
