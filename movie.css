@@ -158,11 +158,4 @@ main {
     letter-spacing: 1px;
     margin: 10px 20px 10px 20px;
 }
-.fala-de-lara {
-    text-align: left;
-    font-size: 18px;
-}
-.fala-de-lara mark {
-    background-color: #810c17;
-    color: #ffff
-}
+
