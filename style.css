@@ -155,6 +155,9 @@ nav a:hover {
 }
 
 .laço-esq {
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
     width: 80px;
 }
 .laço-dir {
