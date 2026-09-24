@@ -146,6 +146,19 @@ nav a:hover {
     pointer-events: none;
 }
 
+.topo-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.laço-esq {
+    width: 80px;
+}
+.laço-dir {
+    width: 50px;
+}
 .cards h2 {
     text-align: center;
     font-family:  "Alex Brush", cursive;
