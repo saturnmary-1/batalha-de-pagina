@@ -26,18 +26,6 @@ header h1 {
     
 }
 
-.topo-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-}
-
-.laço-dir {
-    width: 50px;
-    margin-top: -40px;
-}
-
 nav {
     display: flex;
     justify-content: center;
