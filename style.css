@@ -23,7 +23,6 @@ body{
 
 header {
   background-color: #fce7cc;
-  padding: 25px 30px 12px;
   text-align: center;
   border-bottom: 4px solid #470e14;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
@@ -35,12 +34,18 @@ header h1 {
     font-family:  "Alex Brush", cursive;
     font-size: 38px;
     letter-spacing: 1px;
+    padding: 25px 30px 12px;
+    margin-top: -20px;
+
+    
 }
 
 header p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     margin-top: -20px;
+    padding: 25px 30px 12px;
+
 }
 
 nav {
