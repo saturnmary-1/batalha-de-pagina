@@ -79,7 +79,7 @@ main {
     text-align: left;
     background-color: transparent;
     max-width: 100%;
-    width: 500px;
+    width: 600px;
     padding: 25px;
     margin: 0 auto;
 
@@ -88,8 +88,20 @@ main {
     font-family: 'Times New Roman', Times, serif;
     color: #ffff;
     background-color: #710a14;
-    border-radius: 3px;
+    border-radius: 6px;
     border: 3px solid #420d19 ;
+    position: relative;
+}
+
+.card-filme::before {
+
+    content: "";
+    position: absolute;
+    inset: 8px;
+
+    border: 3px dotted #420d19;
+    border-radius: 8px ;
+
 }
 
 .filme-1 {
