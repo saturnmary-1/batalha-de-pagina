@@ -93,6 +93,10 @@ main {
     position: relative;
 }
 
+.card-filme h1 {
+        font-family:  "Alex Brush", cursive;
+}
+
 .card-filme::before {
 
     content: "";
