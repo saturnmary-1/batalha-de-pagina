@@ -14,11 +14,6 @@ body{
     text-align: center;
     
 }
-.alex-brush-regular {
-  font-family: "Alex Brush", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
 
 
 header {
@@ -142,12 +137,16 @@ nav a:hover {
     background-color: #fce7cc;
 
     width: 280px;
-    height: 400px;
+    min-height: 400px;
     padding: 15px;
 
     color: #5a0f14;
     
     margin:0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 
@@ -189,17 +188,22 @@ nav a:hover {
 
 
  .cards a {
-   display:inline-block;
-   color:#710a14;
-   text-decoration: none;
-   text-align: center;
+    display:inline-block;
+    color:#710a14;
+    text-decoration: none;
+    text-align: center;
 
 
-   font-family: 'Courier New', Courier, monospace;
-   font-size: 14px;
-
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+   
+    margin-top:auto;
+    margin-bottom: 20px;
 
     border:1px solid transparent;
     border-radius: 20px;
     transition: 0.2s;
+
+
+    
  }
