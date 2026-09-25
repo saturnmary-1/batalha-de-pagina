@@ -205,16 +205,17 @@ nav a:hover {
  }
 
  .imagens {
-    display: block;
-    justify-content: center;
-    align-items: center;
     margin: 10px 5px 10px 5px;
+    width: 50px;
  }
 
  .coração {
     display: block;
     justify-content: flex-end;
     align-items: flex-end;
+
+    margin-top: 80px;
+    margin-right: 70px;
 
     width: 60px;
  }
@@ -223,6 +224,7 @@ nav a:hover {
     display:block;
     justify-content: flex-start;
     align-items: flex-start;
+
 
     width: 80px;
  }
