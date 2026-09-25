@@ -203,3 +203,26 @@ nav a:hover {
     border-radius: 20px;
     transition: 0.2s;
  }
+
+ .imagens {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 5px 10px 5px;
+ }
+
+ .coração {
+    display: block;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    width: 60px;
+ }
+
+ .laço {
+    display:block;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    width: 80px;
+ }
