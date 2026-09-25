@@ -83,7 +83,7 @@ main {
     padding: 25px;
     margin: 0 auto;
 
-
+    font-size: 30px;
 
     font-family: 'Times New Roman', Times, serif;
     color: #ffff;
@@ -99,6 +99,7 @@ main {
 }
 
 .estrelas {
+    margin-top: -20px;
     font-size: 30px;
 }
 
