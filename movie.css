@@ -95,6 +95,11 @@ main {
 
 .card-filme h1 {
         font-family:  "Alex Brush", cursive;
+        font-size: 38px;
+}
+
+.estrelas {
+    font-size: 30px;
 }
 
 .card-filme::before {
